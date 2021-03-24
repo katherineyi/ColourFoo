@@ -1,4 +1,4 @@
-# ColourFoo
+# ColourFoo <Work-In-Progress>
 
 This is a programm written in C.
 
